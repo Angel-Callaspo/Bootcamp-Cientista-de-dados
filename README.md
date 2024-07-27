@@ -1,1 +1,8 @@
+# Data scientist
+The project of studying data science arose from the need and desire to analyze large volumes of information in an automated manner by applying modern and technical methods that support the studies of facts resulting from the different variables associated with the processes of the organizations registered and accumulated in databases, as well as understanding their behavior, being able to design models that simulate or aim to optimize their executions through measurable and auditable results.
+
 # Cientista-de-dados
+O projeto de estudar ciência de dados surgiu da necessidade e desejo de analisar grandes volumes de informação de forma automatizada, aplicando métodos modernos e técnicos que apoiem os estudos de factos resultantes das diferentes variáveis associadas aos processos das organizações registradas e acumuladas em bancos de dados, bem como compreender seu comportamento, podendo projetar modelos que simulem ou visem otimizar suas execuções por meio de resultados mensuráveis e auditáveis.
+
+# Cientifico de datos
+El proyecto de estudiar ciencia de datos surgió de la necesidad y empeño de querer analizar informaciones de grandes volúmenes de forma automatizada aplicando métodos modernos y técnicos que respalden los estudios de hechos resultantes de las diferentes variables asociadas a los procesos de las organizaciones registradas y acumuladas en bases de datos, así como entender su comportamiento poder diseñar modelos que simulen o pretendan optimizar sus ejecuciones a través de resultados medibles y auditables.
